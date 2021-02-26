@@ -1,4 +1,4 @@
-const weather = 'g'
+const weather = ''
 
 if ( weather === 'sun') {
     console.log("It's sunny, so I'm going swimming.");
